@@ -20,7 +20,7 @@ Follow these steps to set up the project on your local machine:
    python -m venv env
 4. env\Scripts\activate
    ```bash
-   source env/bin/activate
+   env/bin/activate
 5. pip install -r requirements.txt
    ```bash
    pip install -r requirements.txt

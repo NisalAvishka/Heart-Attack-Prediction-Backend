@@ -15,5 +15,19 @@ Follow these steps to set up the project on your local machine:
 2. Navigate to the project directory:
    ```bash
    cd path/to/your/project
+3. python -m venv env
+   ```bash
+   python -m venv env
+4. env\Scripts\activate
+   ```bash
+   source env/bin/activate
+5. pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+6. Run the Project
+   ```bash
+   python manage.py runserver
+
+Then navigate to frontend repo -> https://github.com/NisalAvishka/Heart-Attack-Prediction-Frontend
 
 
